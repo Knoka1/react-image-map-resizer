@@ -40,11 +40,11 @@ const mapRef = useImageMapResize("your-map-name");
 
 ### NextJs Usage
 
-You can add it to your client components on NextJs. It should be used on native html img and map elements though. NextJs own <Image /> component is not supported yet.
+You can add it to your client components on NextJs. It should be used on native html img and map elements though. NextJs own Image component is not supported yet.
 
 ### Credits
 
-This is a port of the [image_map_resizer](https://github.com/davidjbradshaw/image-map-resizer) vanilla js made by @davidjbradshaw to a simple reusable hook for React applications.
+This is a port of the [image_map_resizer](https://github.com/davidjbradshaw/image-map-resizer) made for vanilla js made by @davidjbradshaw to a simple reusable hook for React applications.
 
 ### License
 
