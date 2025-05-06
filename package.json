@@ -1,0 +1,39 @@
+{
+  "name": "react-image-map-resizer",
+  "version": "1.0.0",
+  "description": "This is a simple library that makes HTML Image Maps responsive, so that they automatically stay scaled to the size of the image they are attached to using a React hook and native html img and map elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knoka1/react-image-map-resizer.git"
+  },
+  "keywords": [
+    "resize",
+    "responsive",
+    "image-map",
+    "responsive-images",
+    "resizer",
+    "imagemap",
+    "responsive-image-map",
+    "react-responsive",
+    "react-responsive-image-map",
+    "react-image-map",
+    "react-resizer",
+    "react-imagemap-resizer",
+    "react-image-map-resizer"
+  ],
+  "author": "Alec do Couto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Knoka1/react-image-map-resizer/issues"
+  },
+  "homepage": "https://github.com/Knoka1/react-image-map-resizer#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "tslib": "^2.8.1",
+    "typescript": "^5.8.3"
+  }
+}
